@@ -1,0 +1,11 @@
+commit c647d6e078598b62f37e407b35daa3f46cb25060
+Author: yassirprograma <dj.jicara@gmail.com>
+Date:   Fri May 18 15:19:31 2018 -0500
+
+    Agregue imagen
+
+commit bca7a264b0e06c0433b806b1a5f03015c83588d9
+Author: masterrcpp <masterrcpp@yassirprograma.masterrcpp>
+Date:   Fri May 18 14:56:32 2018 -0500
+
+    Add cute reposhido story
